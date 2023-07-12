@@ -1,0 +1,821 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LAT| UNIVISION TELENOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Univision_tlnovelas_logo.png/200px-Univision_tlnovelas_logo.png" group-title="LATINO-USA FHD-HD",LAT| UNIVISION TELENOVELAS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/66946
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX HD" tvg-logo="http://miarea.vip:8080/images/d0cc3a30cddd81a9d2392307f0e1061d.png" group-title="MEXICO IZZI-CLARO (encoders)",FX HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79716
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="FXM HD" tvg-logo="http://miarea.vip:8080/images/64a3d5c608ac577800e36b1151e32d56.png" group-title="MEXICO IZZI-CLARO (encoders)",FXM HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79717
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="GOLDEN HD" tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="MEXICO IZZI-CLARO (encoders)",GOLDEN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79718
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="GOLDEN EDGE HD" tvg-logo="http://miarea.vip:8080/images/7133ff7d6453e99ba04e7b7a89d0da47.png" group-title="MEXICO IZZI-CLARO (encoders)",GOLDEN EDGE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79719
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="HISTORIA HD" tvg-logo="http://miarea.vip:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="MEXICO IZZI-CLARO (encoders)",HISTORIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79720
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="IMAGEN TV HD" tvg-logo="http://miarea.vip:8080/images/f8bc7bb05f3275b810bfe807df15e42c.png" group-title="MEXICO IZZI-CLARO (encoders)",IMAGEN TV HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79721
+#EXTINF:-1 tvg-id="xhtm.es" tvg-name="CANAL DE LAS ESTRELLAS -2HRS HD" tvg-logo="http://miarea.vip:8080/images/0ed9404d458cfd868328bc7a08eb4e5f.png" group-title="MEXICO IZZI-CLARO (encoders)",CANAL DE LAS ESTRELLAS -2HRS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79722
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="LIFETIME HD" tvg-logo="http://miarea.vip:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="MEXICO IZZI-CLARO (encoders)",LIFETIME HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79723
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png" group-title="MEXICO IZZI-CLARO (encoders)",PARAMOUNT HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79734
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="MEXICO IZZI-CLARO (encoders)",SONY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79735
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="MEXICO IZZI-CLARO (encoders)",SPACE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79736
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="MEXICO IZZI-CLARO (encoders)",SYFY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79737
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT SERIES HD" tvg-logo="http://miarea.vip:8080/images/403b78c4553960dbcd0f276e37bff367.png" group-title="MEXICO IZZI-CLARO (encoders)",TNT SERIES HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79744
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="UNICABLE HD" tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png" group-title="MEXICO IZZI-CLARO (encoders)",UNICABLE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79746
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="MEXICO IZZI-CLARO (encoders)",UNIVERSAL CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79747
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="WARNER CHANNEL HD " tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="MEXICO IZZI-CLARO (encoders)",WARNER CHANNEL HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79748
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO HD" tvg-logo="http://miarea.vip:8080/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79816
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="http://miarea.vip:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79817
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO FAMILY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79818
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO MUNDI HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79819
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79820
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="http://miarea.vip:8080/images/b3e591e103c4d3fa2b0f5c1bf9611135.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO SIGNATURE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79821
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO EXTREME HD" tvg-logo="http://miarea.vip:8080/images/227c5a7767e2742104de1c193474174b.png" group-title="MEXICO IZZI-CLARO (encoders)",HBO EXTREME HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/79822
+#EXTINF:-1 tvg-id="" tvg-name="MX|*DISTRITO COMEDIA HD" tvg-logo="" group-title="MEXICO IZZI-CLARO (encoders)",MX|*DISTRITO COMEDIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/78851
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX |* DISCOVERY H&H  HD" tvg-logo="http://miarea.vip:8080/images/5a6f6ef252f29440a646dcc1a1fd48a9.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY H&H  HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/69976
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MX |* CLARO SPORTS FHD" tvg-logo="http://miarea.vip:8080/images/39d3534b5ab52e388171b1c812c30737.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* CLARO SPORTS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68643
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MX |* ADRENALINA FHD" tvg-logo="http://miarea.vip:8080/images/3c44228bf3cf14c1bcbf35bae42d3006.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* ADRENALINA FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68642
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="MX |* TLC FHD " tvg-logo="http://miarea.vip:8080/images/8e1e25417963666998508ec09ab1739f.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* TLC FHD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68639
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="MX |* TCM HD" tvg-logo="http://miarea.vip:8080/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* TCM HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68637
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="MX |* TBS FHD" tvg-logo="http://miarea.vip:8080/images/691c03393a5917971d58572fb28ac7f4.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* TBS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68636
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX |* SPACE HD" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* SPACE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68634
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MX |* HBO XTREME HD" tvg-logo="http://miarea.vip:8080/images/227c5a7767e2742104de1c193474174b.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO XTREME HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68341
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX |* HBO FAMILY HD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO FAMILY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68340
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MX |* HBO 2 HD" tvg-logo="http://miarea.vip:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68336
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="MX |* HBO HD" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68335
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="MX |* GOLDEN PREMIER HD" tvg-logo="http://miarea.vip:8080/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* GOLDEN PREMIER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68333
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="MX |* GOLDEN PLUS HD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* GOLDEN PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68332
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX |* GOLDEN HD" tvg-logo="http://miarea.vip:8080/images/215bb2e9f9669cb2c0938e130fe3d849.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* GOLDEN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68331
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX |* FX HD" tvg-logo="http://miarea.vip:8080/images/679db112a880746c5e59f835925edff9.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* FX HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68329
+#EXTINF:-1 tvg-id="" tvg-name="MX |* START HD" tvg-logo="http://miarea.vip:8080/images/e8345be588f886d25b8ec9a597513936.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* START HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68319
+#EXTINF:-1 tvg-id="" tvg-name="MX |* D'PELICULA HD" tvg-logo="http://miarea.vip:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* D'PELICULA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68310
+#EXTINF:-1 tvg-id="" tvg-name="MX |* COMEDY CENTRAL HD" tvg-logo="http://miarea.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* COMEDY CENTRAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68309
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY WORLD HD" tvg-logo="http://miarea.vip:8080/images/cf85a8bb4c531fe999f54aaaeab9f282.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY WORLD HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68308
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY TURBO HD" tvg-logo="http://miarea.vip:8080/images/3a42e889d925964891ab42e3e43b1466.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY TURBO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68307
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY SCIENCE HD" tvg-logo="http://miarea.vip:8080/images/eef5ac4c5cb4c1449338718eeb8bf266.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY SCIENCE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68306
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/81f66a3f81dcb933fb12fa7c7c57e791.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68305
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY THEATHER HD" tvg-logo="http://miarea.vip:8080/images/e283234df4e07ea91bc55e080f2eb7cb.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY THEATHER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68304
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY ID HD" tvg-logo="http://miarea.vip:8080/images/7cd7544e8e282d22da16da11c7c600da.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY ID HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68303
+#EXTINF:-1 tvg-id="" tvg-name="MX |* CINEMAX FHD" tvg-logo="http://miarea.vip:8080/images/1a9789397529c237ac6ea5bc0e7ae89d.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* CINEMAX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68301
+#EXTINF:-1 tvg-id="" tvg-name="MX |* CINECANAL HD" tvg-logo="http://miarea.vip:8080/images/b33bbb805161c335227d334ee70e6f75.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* CINECANAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68300
+#EXTINF:-1 tvg-id="" tvg-name="MX |* WARNER FHD" tvg-logo="http://miarea.vip:8080/images/41d1f5c5b62b7ac7de31aeb45fc48756.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* WARNER FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68287
+#EXTINF:-1 tvg-id="" tvg-name="MX |* SONY FHD" tvg-logo="http://miarea.vip:8080/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* SONY FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68283
+#EXTINF:-1 tvg-id="" tvg-name="MX |* HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO MUNDI HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68280
+#EXTINF:-1 tvg-id="" tvg-name="MX |* GOLDEN EDGE FHD" tvg-logo="http://miarea.vip:8080/images/7133ff7d6453e99ba04e7b7a89d0da47.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* GOLDEN EDGE FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68278
+#EXTINF:-1 tvg-id="" tvg-name="MX |* FXM FHD" tvg-logo="http://miarea.vip:8080/images/64a3d5c608ac577800e36b1151e32d56.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* FXM FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68277
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY KIDS FHD" tvg-logo="http://miarea.vip:8080/images/e1abff7cfbdd9135b1fa98cc85ac8576.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY KIDS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68274
+#EXTINF:-1 tvg-id="" tvg-name="MX |* UNIVERSAL CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* UNIVERSAL CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68272
+#EXTINF:-1 tvg-id="" tvg-name="MX |* UNICABLE FHD" tvg-logo="http://miarea.vip:8080/images/85ee06a027e5ae6f8c99ca586cf6f05f.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* UNICABLE FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68271
+#EXTINF:-1 tvg-id="" tvg-name="MX |* A&E FHD" tvg-logo="http://miarea.vip:8080/images/6738b4beb6b98f6e0f69afd35a219deb.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* A&E FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68270
+#EXTINF:-1 tvg-id="" tvg-name="MX |* TNT HD" tvg-logo="http://miarea.vip:8080/images/9bced7d15a68e61ed4b544972615355c.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* TNT HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68267
+#EXTINF:-1 tvg-id="" tvg-name="MX |* AMC FHD" tvg-logo="http://miarea.vip:8080/images/6a7bce46611a7c012f703dd2145b9b37.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* AMC FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68266
+#EXTINF:-1 tvg-id="" tvg-name="MX |* DISCOVERY TLC FHD" tvg-logo="http://miarea.vip:8080/images/05fa44888592bc898c20a9e6bdaf3c10.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* DISCOVERY TLC FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68264
+#EXTINF:-1 tvg-id="" tvg-name="MX |* TUDN HD" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* TUDN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68263
+#EXTINF:-1 tvg-id="" tvg-name="MX |* PARAMOUNT HD" tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* PARAMOUNT HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68260
+#EXTINF:-1 tvg-id="" tvg-name="MX |* OUTDOOR HD" tvg-logo="http://miarea.vip:8080/images/7c52819b1a975f8ee6eec727e1376f65.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* OUTDOOR HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68259
+#EXTINF:-1 tvg-id="" tvg-name="MX |* NICKTOONS HD" tvg-logo="http://miarea.vip:8080/images/8f92465d830d30cc5c84d0d29b719301.PNG" group-title="MEXICO IZZI-CLARO (encoders)",MX |* NICKTOONS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68258
+#EXTINF:-1 tvg-id="" tvg-name="MX |* NATGEO WILD FHD" tvg-logo="http://miarea.vip:8080/images/7d5e2d8a9f079219fc5fa6ea184d2327.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* NATGEO WILD FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68256
+#EXTINF:-1 tvg-id="" tvg-name="MX |* NATGEO HD" tvg-logo="http://miarea.vip:8080/images/7d5e2d8a9f079219fc5fa6ea184d2327.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* NATGEO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68255
+#EXTINF:-1 tvg-id="" tvg-name="MX |* HISTORY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HISTORY CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68252
+#EXTINF:-1 tvg-id="" tvg-name="MX |* HBO SIGNATURE HD" tvg-logo="http://miarea.vip:8080/images/b3e591e103c4d3fa2b0f5c1bf9611135.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO SIGNATURE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68251
+#EXTINF:-1 tvg-id="" tvg-name="MX |* HBO PLUS HD" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* HBO PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68249
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="MX |* COMEDY CENTRAL HD" tvg-logo="http://miarea.vip:8080/images/7b0f9fb3e0a776a7b4b88be555a7f64d.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* COMEDY CENTRAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68644
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MX |* ESTUDIO UNIVERSAL HD" tvg-logo="http://miarea.vip:8080/images/6deceef47b787ad29f2a9a1c5e7ab257.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* ESTUDIO UNIVERSAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68635
+#EXTINF:-1 tvg-id="" tvg-name="MX |* SYFY FHD" tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="MEXICO IZZI-CLARO (encoders)",MX |* SYFY FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68262
+#EXTINF:-1 tvg-id="" tvg-name="MX| ATRES SERIES " tvg-logo="http://miarea.vip:8080/images/94341b07909b8e23431736446316e00d.png" group-title="MEXICO IZZI-CLARO (encoders)",MX| ATRES SERIES 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/224096
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MX| ADN HD" tvg-logo="http://miarea.vip:8080/images/108439a9c39119adc303e1c9fcadab96.png" group-title="MEXICO FHD-HD",MX| ADN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35672
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MX| AZTECA CINEMA HD" tvg-logo="http://miarea.vip:8080/images/d0f72476c82eeab8a8c39202faedcdd1.png" group-title="MEXICO FHD-HD",MX| AZTECA CINEMA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35663
+#EXTINF:-1 tvg-id="" tvg-name="MX| TL NOVELAS MEXICO HD" tvg-logo="http://miarea.vip:8080/images/92c4cf9df4c01b73f7e757e78ae60841.png" group-title="MEXICO FHD-HD",MX| TL NOVELAS MEXICO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/65920
+#EXTINF:-1 tvg-id="" tvg-name="MX| COMEDY CENTRAL FHD" tvg-logo="http://miarea.vip:8080/images/a2ea1d444c40c1d91e1e941262dc5807.png" group-title="MEXICO FHD-HD",MX| COMEDY CENTRAL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35375
+#EXTINF:-1 tvg-id="" tvg-name="          "CANALES MOVIES PREMIUN"" tvg-logo="" group-title="CINE FHD-HD",          "CANALES MOVIES PREMIUN"
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93800
+#EXTINF:-1 tvg-id="" tvg-name="CINE| EPIX WEST HD" tvg-logo="http://miarea.vip:8080/images/64456779834648b6c5df7a0dea4033c7.jpg" group-title="CINE FHD-HD",CINE| EPIX WEST HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/139706
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO LATINO DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/2560px-HBO_Latino_%282014%29.svg.png" group-title="CINE FHD-HD",CINE| HBO LATINO DIRECTV
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/125873
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO 2  DIRECTV" tvg-logo="http://miarea.vip:8080/images/747bc2d78a28a447f9abec466368cc4d.png" group-title="CINE FHD-HD",CINE| HBO 2  DIRECTV
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/125874
+#EXTINF:-1 tvg-id="" tvg-name="CINE| UNIVERSAL COMEDY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png" group-title="CINE FHD-HD",CINE| UNIVERSAL COMEDY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/286748
+#EXTINF:-1 tvg-id="" tvg-name="CINE| UNIVERSAL CINEMAS HD " tvg-logo="http://miarea.vip:8080/images/5290e121f398b2a63ed3b8b720b54d33.png" group-title="CINE FHD-HD",CINE| UNIVERSAL CINEMAS HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/101760
+#EXTINF:-1 tvg-id="" tvg-name="CINE| UNIVERSAL PREMIER HD" tvg-logo="http://miarea.vip:8080/images/e5bacf48b8ec9875c34ede41ee2a0913.png" group-title="CINE FHD-HD",CINE| UNIVERSAL PREMIER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/101761
+#EXTINF:-1 tvg-id="" tvg-name="CINE| UNIVERSAL CRIME ESTE HD" tvg-logo="http://miarea.vip:8080/images/7b2900fcdb12cfc140ad2a6027f7e065.png" group-title="CINE FHD-HD",CINE| UNIVERSAL CRIME ESTE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/101762
+#EXTINF:-1 tvg-id="" tvg-name="CINE| UNIVERSAL REALITY HD" tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="CINE FHD-HD",CINE| UNIVERSAL REALITY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/101763
+#EXTINF:-1 tvg-id="" tvg-name="CINE| UNIVERSAL CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="CINE FHD-HD",CINE| UNIVERSAL CHANNEL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35607
+#EXTINF:-1 tvg-id="" tvg-name="CINE| A ESTRENAR FHD **" tvg-logo="http://miarea.vip:8080/images/9bdf8a3744a6c60f773a1f612afd7529.png" group-title="CINE FHD-HD",CINE| A ESTRENAR FHD **
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/30531
+#EXTINF:-1 tvg-id="" tvg-name="CINE| ACTION MAX FHD" tvg-logo="http://miarea.vip:8080/images/4781586bfc2648b5e649e89733fd2fa3.png" group-title="CINE FHD-HD",CINE| ACTION MAX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35635
+#EXTINF:-1 tvg-id="" tvg-name="CINE| AMC FHD" tvg-logo="http://miarea.vip:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE FHD-HD",CINE| AMC FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43288
+#EXTINF:-1 tvg-id="I210.90653.schedulesdirect.org" tvg-name="CINE| AMC HD" tvg-logo="http://miarea.vip:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE FHD-HD",CINE| AMC HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/476
+#EXTINF:-1 tvg-id="I209.26083.schedulesdirect.org" tvg-name="CINE| AXN FHD" tvg-logo="http://miarea.vip:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="CINE FHD-HD",CINE| AXN FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35613
+#EXTINF:-1 tvg-id="I209.26083.schedulesdirect.org" tvg-name="CINE| AXN HD" tvg-logo="http://miarea.vip:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="CINE FHD-HD",CINE| AXN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36035
+#EXTINF:-1 tvg-id="" tvg-name="CINE| LIFETIME LATINO HD" tvg-logo="http://miarea.vip:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="CINE FHD-HD",CINE| LIFETIME LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/51107
+#EXTINF:-1 tvg-id="" tvg-name="CINE| LIFETIME FHD " tvg-logo="http://miarea.vip:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="CINE FHD-HD",CINE| LIFETIME FHD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/51108
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE LATINO HD" tvg-logo="http://miarea.vip:8080/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="CINE FHD-HD",CINE| CINE LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/715
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE MEXICANO HD" tvg-logo="http://miarea.vip:8080/images/582970b680be7cc9fcd4d57d57e1d70e.png" group-title="CINE FHD-HD",CINE| CINE MEXICANO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43289
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINECANAL HD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE FHD-HD",CINE| CINECANAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43290
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINECANAL LATINO FHD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CINE FHD-HD",CINE| CINECANAL LATINO FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35595
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINECANAL MEXICO FHD" tvg-logo="http://miarea.vip:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="CINE FHD-HD",CINE| CINECANAL MEXICO FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35596
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMAX ESPANOL USA HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE FHD-HD",CINE| CINEMAX ESPANOL USA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/69980
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMAX ACTION FHD" tvg-logo="http://miarea.vip:8080/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="CINE FHD-HD",CINE| CINEMAX ACTION FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35634
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMAX EAST FHD" tvg-logo="http://miarea.vip:8080/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="CINE FHD-HD",CINE| CINEMAX EAST FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35633
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMAX FHD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE FHD-HD",CINE| CINEMAX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35601
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMAX HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="CINE FHD-HD",CINE| CINEMAX HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43291
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULAS HD" tvg-logo="http://miarea.vip:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="CINE FHD-HD",CINE| DE PELICULAS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43292
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULAS PLUS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE FHD-HD",CINE| DE PELICULAS PLUS*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8845
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DHE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE FHD-HD",CINE| DHE FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43293
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DHE HD" tvg-logo="http://miarea.vip:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="CINE FHD-HD",CINE| DHE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43294
+#EXTINF:-1 tvg-id="I234.77534.schedulesdirect.org" tvg-name="CINE| ESTUDIO UNIVERSAL FHD" tvg-logo="http://miarea.vip:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="CINE FHD-HD",CINE| ESTUDIO UNIVERSAL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35247
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FILM & ARTS FHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="CINE FHD-HD",CINE| FILM & ARTS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43295
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FILM & ARTS HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="CINE FHD-HD",CINE| FILM & ARTS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43296
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FILM ZONE HD" tvg-logo="http://miarea.vip:8080/images/8c5b5666027686c0ef19b8d1440d1047.PNG" group-title="CINE FHD-HD",CINE| FILM ZONE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35610
+#EXTINF:-1 tvg-id="I1638.74574.schedulesdirect.org" tvg-name="CINE| FOX ACTION PREMIUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Fox_action.png" group-title="CINE FHD-HD",CINE| FOX ACTION PREMIUN FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35622
+#EXTINF:-1 tvg-id="I221.88534.schedulesdirect.org" tvg-name="CINE| FOX CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png" group-title="CINE FHD-HD",CINE| FOX CHANNEL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35621
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FOX CINEMA PREMIUN HD" tvg-logo="http://miarea.vip:8080/images/75cc0c2767e58123f76dbf125ae7e0d2.png" group-title="CINE FHD-HD",CINE| FOX CINEMA PREMIUN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43299
+#EXTINF:-1 tvg-id="I1506.77617.schedulesdirect.org" tvg-name="CINE| FOX LIFE FHD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="CINE FHD-HD",CINE| FOX LIFE FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35623
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FOX LIFE HD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="CINE FHD-HD",CINE| FOX LIFE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43303
+#EXTINF:-1 tvg-id="I1642.73049.schedulesdirect.org" tvg-name="CINE| FOX MOVIES PREMIUN FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/54d4943ce118416297e3f2689369fdf5.png" group-title="CINE FHD-HD",CINE| FOX MOVIES PREMIUN FHD MEXICO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35616
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FOX MOVIES PREMIUN HD" tvg-logo="http://miarea.vip:8080/images/54d4943ce118416297e3f2689369fdf5.png" group-title="CINE FHD-HD",CINE| FOX MOVIES PREMIUN HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43304
+#EXTINF:-1 tvg-id="I1552.60542.schedulesdirect.org" tvg-name="CINE| FOX SERIES PREMIUN FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/a7a3548a751b7d3862b17a2dfef82fe9.png" group-title="CINE FHD-HD",CINE| FOX SERIES PREMIUN FHD MEXICO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35614
+#EXTINF:-1 tvg-id="I1216.97256.schedulesdirect.org" tvg-name="CINE| FX FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="CINE FHD-HD",CINE| FX FHD MEXICO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35599
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FX HD" tvg-logo="http://miarea.vip:8080/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="CINE FHD-HD",CINE| FX HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43305
+#EXTINF:-1 tvg-id="I1508.70253.schedulesdirect.org" tvg-name="CINE| FXM FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/5125535289275193804de4334d7ebac8.png" group-title="CINE FHD-HD",CINE| FXM FHD MEXICO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35598
+#EXTINF:-1 tvg-id="" tvg-name="CINE| FXM HD HD" tvg-logo="http://miarea.vip:8080/images/5125535289275193804de4334d7ebac8.png" group-title="CINE FHD-HD",CINE| FXM HD HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43306
+#EXTINF:-1 tvg-id="" tvg-name="CINE| GOLDEN EDGE HD" tvg-logo="http://miarea.vip:8080/images/2484e9f1f313c78abff51f7a6371a6eb.png" group-title="CINE FHD-HD",CINE| GOLDEN EDGE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43307
+#EXTINF:-1 tvg-id="I1503.68317.schedulesdirect.org" tvg-name="CINE| GOLDEN HD " tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="CINE FHD-HD",CINE| GOLDEN HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35600
+#EXTINF:-1 tvg-id="I503.50709.schedulesdirect.org" tvg-name="CINE| GOLDEN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="CINE FHD-HD",CINE| GOLDEN PLUS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35612
+#EXTINF:-1 tvg-id="" tvg-name="CINE| GOLDEN PLUS HD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="CINE FHD-HD",CINE| GOLDEN PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43308
+#EXTINF:-1 tvg-id="I1650.80596.schedulesdirect.org" tvg-name="CINE| GOLDEN PREMIER FHD" tvg-logo="http://miarea.vip:8080/images/ad308ff7bbf4e99959051f22851f6861.png" group-title="CINE FHD-HD",CINE| GOLDEN PREMIER FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35611
+#EXTINF:-1 tvg-id="" tvg-name="CINE| GOLDEN PREMIER HD" tvg-logo="http://miarea.vip:8080/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="CINE FHD-HD",CINE| GOLDEN PREMIER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43309
+#EXTINF:-1 tvg-id="I532.68140.schedulesdirect.org" tvg-name="CINE| HBO 2 EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE FHD-HD",CINE| HBO 2 EN ESPANOL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/650
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO 2 HD" tvg-logo="http://miarea.vip:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CINE FHD-HD",CINE| HBO 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43311
+#EXTINF:-1 tvg-id="I522.80406.schedulesdirect.org" tvg-name="CINE| HBO FAMILY EN ESPANOL USA HD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE FHD-HD",CINE| HBO FAMILY EN ESPANOL USA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/649
+#EXTINF:-1 tvg-id="I1610.80118.schedulesdirect.org" tvg-name="CINE| HBO FAMILY FHD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE FHD-HD",CINE| HBO FAMILY FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35628
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO FAMILY HD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CINE FHD-HD",CINE| HBO FAMILY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43334
+#EXTINF:-1 tvg-id="I1602.19548.schedulesdirect.org" tvg-name="CINE| HBO FHD " tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE FHD-HD",CINE| HBO FHD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35624
+#EXTINF:-1 tvg-id="I522.80406.schedulesdirect.org" tvg-name="CINE| HBO FHD EN ESPANOL" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="CINE FHD-HD",CINE| HBO FHD EN ESPANOL
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31145
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO EN ESPANOL USA HD" tvg-logo="http://miarea.vip:8080/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="CINE FHD-HD",CINE| HBO EN ESPANOL USA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/69982
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE FHD-HD",CINE| HBO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43310
+#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="CINE| HBO LATINO HD USA" tvg-logo="http://miarea.vip:8080/images/54e99501426cc22bef2c553b09545b5e.png" group-title="CINE FHD-HD",CINE| HBO LATINO HD USA
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/648
+#EXTINF:-1 tvg-id="I538.34887.schedulesdirect.org" tvg-name="CINE| HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="CINE FHD-HD",CINE| HBO MUNDI HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8890
+#EXTINF:-1 tvg-id="I1612.80120.schedulesdirect.org" tvg-name="CINE| HBO PLUS FHD ARGENTINA(DUAL AUDIO)" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE FHD-HD",CINE| HBO PLUS FHD ARGENTINA(DUAL AUDIO)
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35527
+#EXTINF:-1 tvg-id="I1612.80120.schedulesdirect.org" tvg-name="CINE| HBO PLUS HD" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CINE FHD-HD",CINE| HBO PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35627
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO POP HD " tvg-logo="http://miarea.vip:8080/images/d59693b0315c2130b34fe6aea38f89fe.png" group-title="CINE FHD-HD",CINE| HBO POP HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8888
+#EXTINF:-1 tvg-id="" tvg-name="CINE| HBO POP* HD" tvg-logo="http://miarea.vip:8080/images/97e21068a9bab4e4cce283960b479925.png" group-title="CINE FHD-HD",CINE| HBO POP* HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/74973
+#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="CINE| HBO SIGNATURE EN ESPANOL FHD" tvg-logo="http://miarea.vip:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="CINE FHD-HD",CINE| HBO SIGNATURE EN ESPANOL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/647
+#EXTINF:-1 tvg-id="I1612.80120.schedulesdirect.org" tvg-name="CINE| HBO SUBTITULADO FHD" tvg-logo="http://miarea.vip:8080/images/009add9e17a20277ee78bdc91283b44a.png" group-title="CINE FHD-HD",CINE| HBO SUBTITULADO FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36048
+#EXTINF:-1 tvg-id="88039" tvg-name="CINE| HBO WEST FHD" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="CINE FHD-HD",CINE| HBO WEST FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35625
+#EXTINF:-1 tvg-id="I1614.57400.schedulesdirect.org" tvg-name="CINE| HBO XTREME HD" tvg-logo="http://miarea.vip:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="CINE FHD-HD",CINE| HBO XTREME HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35463
+#EXTINF:-1 tvg-id="" tvg-name="CINE| I SAT CHANNEL HD " tvg-logo="http://miarea.vip:8080/images/49f1f5c584a7aaab04bf5d5cdb546a8b.png" group-title="CINE FHD-HD",CINE| I SAT CHANNEL HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36019
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MAX PRIME FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1200px-Max_Prime_2012_logo.svg.png" group-title="CINE FHD-HD",CINE| MAX PRIME FHD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35604
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MAX UP HD" tvg-logo="http://miarea.vip:8080/images/8b6a9afa59c602ba68615a0f6fdf3229.png" group-title="CINE FHD-HD",CINE| MAX UP HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35606
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MOREMAX FHD" tvg-logo="http://miarea.vip:8080/images/fd14f9920e6f9506903aeced73e335a8.png" group-title="CINE FHD-HD",CINE| MOREMAX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35513
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MOVIEMAX FHD" tvg-logo="http://miarea.vip:8080/images/6ee13314ca5620e69bbb3daf05038fee.png" group-title="CINE FHD-HD",CINE| MOVIEMAX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35514
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MOVIEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/1280px-Movieplex_logo.svg.png" group-title="CINE FHD-HD",CINE| MOVIEPLEX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35632
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MULTICINEMA HD" tvg-logo="http://miarea.vip:8080/images/d6fd0924e324f50669ae0295adf59567.png" group-title="CINE FHD-HD",CINE| MULTICINEMA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36050
+#EXTINF:-1 tvg-id="I116.50296.schedulesdirect.org" tvg-name="CINE| MULTIPREMIER HD" tvg-logo="https://w7.pngwing.com/pngs/860/591/png-transparent-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television-angle.png" group-title="CINE FHD-HD",CINE| MULTIPREMIER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36051
+#EXTINF:-1 tvg-id="" tvg-name="CINE| OUTMAX FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Outermax.png" group-title="CINE FHD-HD",CINE| OUTMAX FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35631
+#EXTINF:-1 tvg-id="" tvg-name="CINE| PARAMOUNT CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="CINE FHD-HD",CINE| PARAMOUNT CHANNEL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35608
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SHOWTIME BEYOND FHD" tvg-logo="http://miarea.vip:8080/images/8e050b11ac15d3a8665321085a53c3c3.png" group-title="CINE FHD-HD",CINE| SHOWTIME BEYOND FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35630
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SHOWTIME EAST FHD" tvg-logo="http://miarea.vip:8080/images/251c00d5bf14a655404b9ae47321e82f.png" group-title="CINE FHD-HD",CINE| SHOWTIME EAST FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35629
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SHOWTIME EXTREME LATINO HD" tvg-logo="http://miarea.vip:8080/images/f9e2b720402ec1dd8fdf65617ad1338d.png" group-title="CINE FHD-HD",CINE| SHOWTIME EXTREME LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/828
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SHOWTIME HD" tvg-logo="http://miarea.vip:8080/images/86988b1118f5d8394fe6f23dcbb5ac73.png" group-title="CINE FHD-HD",CINE| SHOWTIME HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/829
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SHOWTIME LATINO HD" tvg-logo="http://miarea.vip:8080/images/fba88e178aad25659902b17737441c6f.png" group-title="CINE FHD-HD",CINE| SHOWTIME LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/827
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="CINE FHD-HD",CINE| SONY FHD ARGENTINA 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35594
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE FHD-HD",CINE| SONY FHD MEXICO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35593
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY HD" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE FHD-HD",CINE| SONY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43363
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY USA LATINO" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE FHD-HD",CINE| SONY USA LATINO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/938
+#EXTINF:-1 tvg-id="I235.66349.schedulesdirect.org" tvg-name="CINE| SPACE FHD" tvg-logo="http://miarea.vip:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CINE FHD-HD",CINE| SPACE FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35597
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SPACE HD" tvg-logo="http://miarea.vip:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CINE FHD-HD",CINE| SPACE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43364
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ COMEDY FHD" tvg-logo="http://miarea.vip:8080/images/8a337cd814de2026f1f53a3c5f99cd4c.png" group-title="CINE FHD-HD",CINE| STARZ COMEDY FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35636
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ COMEDY HD" tvg-logo="http://miarea.vip:8080/images/be3d58a919321e2e4c1c0d381fc3e023.png" group-title="CINE FHD-HD",CINE| STARZ COMEDY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/840
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ COMEDY LATINO HD" tvg-logo="https://b1.pngbarn.com/png/172/617/tv-channel-icons-pack-starz-comedy-black-png-clip-art-thumbnail.png" group-title="CINE FHD-HD",CINE| STARZ COMEDY LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/830
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ EAST FHD" tvg-logo="http://miarea.vip:8080/images/b45220c396423f677c7a029f3c6955e5.png" group-title="CINE FHD-HD",CINE| STARZ EAST FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/913
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ EAST HD" tvg-logo="https://w7.pngwing.com/pngs/797/48/png-transparent-starz-encore-logo-television-film-comedy-miscellaneous-television-text.png" group-title="CINE FHD-HD",CINE| STARZ EAST HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/839
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ EDGE LATINO HD" tvg-logo="http://miarea.vip:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="CINE FHD-HD",CINE| STARZ EDGE LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/831
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCORE  ACTION HD" tvg-logo="http://miarea.vip:8080/images/67be26c5efea17288f2ac334253a2273.png" group-title="CINE FHD-HD",CINE| STARZ ENCORE  ACTION HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/912
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCORE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Encore_Action.png/1200px-Encore_Action.png" group-title="CINE FHD-HD",CINE| STARZ ENCORE ACTION HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/838
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCORE FAMILY HD" tvg-logo="http://miarea.vip:8080/images/9d22f000b3a31fcb98d8e4d54b4f7950.png" group-title="CINE FHD-HD",CINE| STARZ ENCORE FAMILY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/837
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCORE HD " tvg-logo="http://miarea.vip:8080/images/a4c0709b7d79b878462d646622832e4f.png" group-title="CINE FHD-HD",CINE| STARZ ENCORE HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/836
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCORE WESTER HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="CINE FHD-HD",CINE| STARZ ENCORE WESTER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/835
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ FAMLY HD" tvg-logo="http://miarea.vip:8080/images/e0908afdb0bf376905c0f76ebecbdbe4.png" group-title="CINE FHD-HD",CINE| STARZ FAMLY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/832
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ KIDS  FAMILY HD" tvg-logo="http://miarea.vip:8080/images/5821e4af7b05f838025c5a70854d989e.png" group-title="CINE FHD-HD",CINE| STARZ KIDS  FAMILY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/914
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ LATINO HD" tvg-logo="https://img.utdstc.com/icons/starz-play-android.png" group-title="CINE FHD-HD",CINE| STARZ LATINO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/833
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STARZ ENCODEr EN ESPANOL  HD " tvg-logo="http://miarea.vip:8080/images/3de6c1b741b9a9082255cea05d431af6.png" group-title="CINE FHD-HD",CINE| STARZ ENCODEr EN ESPANOL  HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/69996
+#EXTINF:-1 tvg-id="" tvg-name="CINE| STUDIO UNIVERSAL HD" tvg-logo="http://miarea.vip:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="CINE FHD-HD",CINE| STUDIO UNIVERSAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43365
+#EXTINF:-1 tvg-id="I513.16108.schedulesdirect.org" tvg-name="CINE| SUNDANCE HD" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="CINE FHD-HD",CINE| SUNDANCE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35385
+#EXTINF:-1 tvg-id="I1219.101357.schedulesdirect.org" tvg-name="CINE| SYFY FHD" tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="CINE FHD-HD",CINE| SYFY FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35605
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SYFY HD" tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="CINE FHD-HD",CINE| SYFY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43390
+#EXTINF:-1 tvg-id="I216.74115.schedulesdirect.org" tvg-name="CINE| TBS HD" tvg-logo="http://miarea.vip:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png" group-title="CINE FHD-HD",CINE| TBS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/477
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TCM HD" tvg-logo="http://miarea.vip:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="CINE FHD-HD",CINE| TCM HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36021
+#EXTINF:-1 tvg-id="I1504.106062.schedulesdirect.org" tvg-name="CINE| TNT  FHD " tvg-logo="http://miarea.vip:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="CINE FHD-HD",CINE| TNT  FHD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35592
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TNT HD" tvg-logo="http://miarea.vip:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="CINE FHD-HD",CINE| TNT HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43466
+#EXTINF:-1 tvg-id="I231.72166.schedulesdirect.org" tvg-name="CINE| WARNER FHD LATINO" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="CINE FHD-HD",CINE| WARNER FHD LATINO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35602
+#EXTINF:-1 tvg-id="I231.72166.schedulesdirect.org" tvg-name="CINE| WARNER FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="CINE FHD-HD",CINE| WARNER FHD MEXICO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35603
+#EXTINF:-1 tvg-id="" tvg-name="CINE| WARNER HD" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="CINE FHD-HD",CINE| WARNER HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43492
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TAQUILLA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="CINE FHD-HD",CINE| TAQUILLA 2
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/634
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TAQUILLA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="CINE FHD-HD",CINE| TAQUILLA 4
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/636
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TAQUILLA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="CINE FHD-HD",CINE| TAQUILLA 5
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/637
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49089
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 2 HD" tvg-logo="http://miarea.vip:8080/images/2f33caf3bb97b1021690852b67d0c5e6.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49090
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49091
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 4 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49092
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 5 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49093
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 7 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49094
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 8 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49095
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 9 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49096
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="CINE FHD-HD",CINE| CINEMA PPVV 10 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49097
+#EXTINF:-1 tvg-id="" tvg-name="     AUDIO LATINO CINE" tvg-logo="" group-title="CINE FHD-HD",     AUDIO LATINO CINE
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/90887
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TOP FREE" tvg-logo="http://miarea.vip:8080/images/d95955816cf41b9c2cc6ce8193fbbb23.png" group-title="CINE FHD-HD",RAKUTEN TOP FREE
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93514
+#EXTINF:-1 tvg-id="" tvg-name="RUN:TIME" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",RUN:TIME
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93515
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MY TIME NETWORK HD LATINO" tvg-logo="" group-title="CINE FHD-HD",CINE| MY TIME NETWORK HD LATINO
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93351
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE COMEDIA HD*" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="CINE FHD-HD",CINE| CINE COMEDIA HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/91116
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE COMEDIA 2 HD *" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="CINE FHD-HD",CINE| CINE COMEDIA 2 HD *
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/91117
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ROMANCE HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="CINE FHD-HD",CINE| CINE ROMANCE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/91118
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ROMANTICO HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="CINE FHD-HD",CINE| CINE ROMANTICO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/91119
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE DRMA HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="CINE FHD-HD",CINE| CINE DRMA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/91120
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ACCION HD 1" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE ACCION HD 1
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49688
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ACCION SAGAS HD 1" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE ACCION SAGAS HD 1
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49690
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ACCION SAGAS HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE ACCION SAGAS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49691
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE COMDEDIA 1 HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE COMDEDIA 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49693
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE FICCION  HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE FICCION  HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49694
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE FANTASIA HD " tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE FANTASIA HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49696
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE FANTASIAS SAGAS HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE FANTASIAS SAGAS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49697
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE INFANTIL HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE INFANTIL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49698
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE INFANTIL 1 HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE INFANTIL 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49699
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE INFANTIL SAGAS HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE INFANTIL SAGAS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49700
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE MARVEL HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE MARVEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49702
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE MARVEL 1 HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| CINE MARVEL 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49703
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MARVEL MOVIES HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CINE FHD-HD",CINE| MARVEL MOVIES HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/49714
+#EXTINF:-1 tvg-id="" tvg-name="CINE| PARAMOUNT HD" tvg-logo="http://miarea.vip:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="CINE FHD-HD",CINE| PARAMOUNT HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/43362
+#EXTINF:-1 tvg-id="" tvg-name="CINE| SONY USA LATINO HD**" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE FHD-HD",CINE| SONY USA LATINO HD**
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76066
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE CHANNEL USA LATIN HD**" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE FHD-HD",CINE| CINE CHANNEL USA LATIN HD**
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76067
+#EXTINF:-1 tvg-id="" tvg-name="CINE| PARAMOUNT LATINO HD**" tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png" group-title="CINE FHD-HD",CINE| PARAMOUNT LATINO HD**
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76123
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULAS + HD**" tvg-logo="http://miarea.vip:8080/images/272f9b8968810a43dee8faf007fdb225.png" group-title="CINE FHD-HD",CINE| DE PELICULAS + HD**
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76070
+#EXTINF:-1 tvg-id="" tvg-name="CINE| DE PELICULAS CLASICO HD**" tvg-logo="http://miarea.vip:8080/images/ce1a2bd875a1d2968daaf43b069d3585.png" group-title="CINE FHD-HD",CINE| DE PELICULAS CLASICO HD**
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76071
+#EXTINF:-1 tvg-id="" tvg-name="CINE| EUROPA HD" tvg-logo="http://miarea.vip:8080/images/7d454d2270d114de86b01199ab97710e.png" group-title="CINE FHD-HD",CINE| EUROPA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/277507
+#EXTINF:-1 tvg-id="" tvg-name="          "KIDS"" tvg-logo="" group-title="INFANTILES FHD-HD",          "KIDS"
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93803
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| TOONCAST HD" tvg-logo="http://miarea.vip:8080/images/2ed5b63ca7b41ebb07fd82f963d0963d.png" group-title="INFANTILES FHD-HD",KIDS| TOONCAST HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35637
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKELODEON FHD" tvg-logo="http://miarea.vip:8080/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTILES FHD-HD",KIDS| NICKELODEON FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35639
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK HD" tvg-logo="http://miarea.vip:8080/images/db674e989e4ef42ac91ae5f7e8cbd4f1.png" group-title="INFANTILES FHD-HD",KIDS| NICK HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35641
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK 2 HD" tvg-logo="http://miarea.vip:8080/images/d08bde0ff5dfd02be32eeb0cb2a3fd39.png" group-title="INFANTILES FHD-HD",KIDS| NICK 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35642
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK JR " tvg-logo="http://miarea.vip:8080/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="INFANTILES FHD-HD",KIDS| NICK JR 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35643
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKTOON HD" tvg-logo="http://miarea.vip:8080/images/9b37f14f4c74b8195a04a7705c7e2c74.png" group-title="INFANTILES FHD-HD",KIDS| NICKTOON HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35644
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/ce2ca73e500e0a97f29cdd48e29ec490.png" group-title="INFANTILES FHD-HD",KIDS| DISNEY CHANNEL FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35645
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY JR HD" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title="INFANTILES FHD-HD",KIDS| DISNEY JR HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35646
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY XD FHD" tvg-logo="http://miarea.vip:8080/images/88d38d7e606f3407449091e3f3349861.png" group-title="INFANTILES FHD-HD",KIDS| DISNEY XD FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35647
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISCOVERY KIDS FHD" tvg-logo="http://miarea.vip:8080/images/4dbf360f207ebe3364237325b8bf6888.png" group-title="INFANTILES FHD-HD",KIDS| DISCOVERY KIDS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35648
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| BOOMERAN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTILES FHD-HD",KIDS| BOOMERAN FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35649
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| BABY TV FHD" tvg-logo="http://miarea.vip:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="INFANTILES FHD-HD",KIDS| BABY TV FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35651
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| BABY FIRST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" group-title="INFANTILES FHD-HD",KIDS| BABY FIRST HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35652
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| CARTOON NETWORKS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png" group-title="INFANTILES FHD-HD",KIDS| CARTOON NETWORKS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35653
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK MUSIC HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NickMusic_Logo.png/800px-NickMusic_Logo.png" group-title="INFANTILES FHD-HD",KIDS| NICK MUSIC HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/66945
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| UNIVERSAL KIDS HD" tvg-logo="http://miarea.vip:8080/images/a9b217236bd80b10a93ce15320989d88.png" group-title="INFANTILES FHD-HD",KIDS| UNIVERSAL KIDS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/270396
+#EXTINF:-1 tvg-id="" tvg-name="INFANTILES| CARTOONITO HD" tvg-logo="" group-title="INFANTILES FHD-HD",INFANTILES| CARTOONITO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/277508
+#EXTINF:-1 tvg-id="" tvg-name="          "ESPANA"" tvg-logo="" group-title="ESPANA FHD-HD",          "ESPANA"
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93811
+#EXTINF:-1 tvg-id="" tvg-name="ESP| LA RESISTENCIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_La_Resistencia.png/320px-Logo_La_Resistencia.png" group-title="ESPANA FHD-HD",ESP| LA RESISTENCIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/109766
+#EXTINF:-1 tvg-id="" tvg-name="ESP| 24 HRS HD" tvg-logo="http://miarea.vip:8080/images/03ca0d6b34aa61df27a9590ae4e92499.png" group-title="ESPANA FHD-HD",ESP| 24 HRS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/390
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP| LA 1 HD" tvg-logo="http://miarea.vip:8080/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="ESPANA FHD-HD",ESP| LA 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/345
+#EXTINF:-1 tvg-id="I2.91206.schedulesdirect.org" tvg-name="ESP| LA 2 HD" tvg-logo="http://miarea.vip:8080/images/1d92d98b45f0c68b1edf048c6dfee1aa.png" group-title="ESPANA FHD-HD",ESP| LA 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/346
+#EXTINF:-1 tvg-id="I4.91199.schedulesdirect.org" tvg-name="ESP| LA CUATRO HD" tvg-logo="http://miarea.vip:8080/images/c7e06739450ba5bb7d1adbb6f6254c55.png" group-title="ESPANA FHD-HD",ESP| LA CUATRO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/362
+#EXTINF:-1 tvg-id="I5.91224.schedulesdirect.org" tvg-name="ESP| TELECINCO HD" tvg-logo="http://miarea.vip:8080/images/403853df6f96513354d146c4eace61da.png" group-title="ESPANA FHD-HD",ESP| TELECINCO HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/368
+#EXTINF:-1 tvg-id="I6.97481.schedulesdirect.org" tvg-name="ESP| LA SEXTA HD" tvg-logo="http://miarea.vip:8080/images/966ee4301686bd3293f32284a44274d5.png" group-title="ESPANA FHD-HD",ESP| LA SEXTA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/347
+#EXTINF:-1 tvg-id="I3.91176.schedulesdirect.org" tvg-name="ESP| ANTENA 3 HD" tvg-logo="http://miarea.vip:8080/images/913a4485b8bd8a8849a15a852dd136ab.png" group-title="ESPANA FHD-HD",ESP| ANTENA 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/376
+#EXTINF:-1 tvg-id="" tvg-name="ESP| CALLE 13 HD" tvg-logo="http://miarea.vip:8080/images/9e1ad00b3db7f22045b242d71638851b.png" group-title="ESPANA FHD-HD",ESP| CALLE 13 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/395
+#EXTINF:-1 tvg-id="I80.97471.schedulesdirect.org" tvg-name="ESP| COCINA FHD" tvg-logo="https://images.squarespace-cdn.com/content/5a0a105da803bb1549f43b85/1546991442664-7CN5I0HWPBIEJLIPDIWN/Full+Color.png?content-type=image%2Fpng" group-title="ESPANA FHD-HD",ESP| COCINA FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/349
+#EXTINF:-1 tvg-id="" tvg-name="ESP| COSMOS FHD" tvg-logo="http://miarea.vip:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="ESPANA FHD-HD",ESP| COSMOS FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31851
+#EXTINF:-1 tvg-id="" tvg-name="ESP| FOX CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png" group-title="ESPANA FHD-HD",ESP| FOX CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76005
+#EXTINF:-1 tvg-id="" tvg-name="ESP| TNT HD " tvg-logo="http://miarea.vip:8080/images/9bced7d15a68e61ed4b544972615355c.png" group-title="ESPANA FHD-HD",ESP| TNT HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/76006
+#EXTINF:-1 tvg-id="" tvg-name="ESP| TV GALICIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="ESPANA FHD-HD",ESP| TV GALICIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/84259
+#EXTINF:-1 tvg-id="I83.87038.schedulesdirect.org" tvg-name="ESP| DIVINITY HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/divinity-vector-logo.png" group-title="ESPANA FHD-HD",ESP| DIVINITY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/350
+#EXTINF:-1 tvg-id="I25.78991.schedulesdirect.org" tvg-name="ESP| FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="ESPANA FHD-HD",ESP| FDF HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/352
+#EXTINF:-1 tvg-id="I26.78990.schedulesdirect.org" tvg-name="ESP| NEOX TV HD" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/neox-tv-logo-vector.png" group-title="ESPANA FHD-HD",ESP| NEOX TV HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/384
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="ESP| LA MEGA FHD  1080P" tvg-logo="http://miarea.vip:8080/images/d4faa708735bad60438d674c8d48ed67.png" group-title="ESPANA FHD-HD",ESP| LA MEGA FHD  1080P
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/399
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="ESP| LA MEGA FHD" tvg-logo="http://miarea.vip:8080/images/d4faa708735bad60438d674c8d48ed67.png" group-title="ESPANA FHD-HD",ESP| LA MEGA FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/1048
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MEGA HD 720P" tvg-logo="http://miarea.vip:8080/images/d4faa708735bad60438d674c8d48ed67.png" group-title="ESPANA FHD-HD",ESP| MEGA HD 720P
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31146
+#EXTINF:-1 tvg-id="I84.81786.schedulesdirect.org" tvg-name="ESP| NOVA HD" tvg-logo="http://miarea.vip:8080/images/2c30c050b55c99b5cb8b0f4299daceb7.png" group-title="ESPANA FHD-HD",ESP| NOVA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/361
+#EXTINF:-1 tvg-id="I74.91212.schedulesdirect.org" tvg-name="ESP| ODISEA HD" tvg-logo="http://miarea.vip:8080/images/831576acd585fbe847690893b643f0db.png" group-title="ESPANA FHD-HD",ESP| ODISEA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/365
+#EXTINF:-1 tvg-id="I28.87042.schedulesdirect.org" tvg-name="ESP| ENERGY HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="ESPANA FHD-HD",ESP| ENERGY HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/369
+#EXTINF:-1 tvg-id="I86.102848.schedulesdirect.org" tvg-name="ESP| BE MAD HD" tvg-logo="http://miarea.vip:8080/images/a6d87ffeb7877bfa557f803f0e18b147.png" group-title="ESPANA FHD-HD",ESP| BE MAD HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/370
+#EXTINF:-1 tvg-id="I97.86956.schedulesdirect.org" tvg-name="ESP| BOING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="ESPANA FHD-HD",ESP| BOING HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/374
+#EXTINF:-1 tvg-id="I92.53736.schedulesdirect.org" tvg-name="ESP| PANDA HD " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Panda.png" group-title="ESPANA FHD-HD",ESP| PANDA HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/385
+#EXTINF:-1 tvg-id="" tvg-name="ESP| NICKELEODEON HD" tvg-logo="http://miarea.vip:8080/images/0275de523815a58abb800d3e1c4a649a.png" group-title="ESPANA FHD-HD",ESP| NICKELEODEON HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/386
+#EXTINF:-1 tvg-id="I96.87058.schedulesdirect.org" tvg-name="ESP| DISNEY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/ce2ca73e500e0a97f29cdd48e29ec490.png" group-title="ESPANA FHD-HD",ESP| DISNEY CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/499
+#EXTINF:-1 tvg-id="I91.87041.schedulesdirect.org" tvg-name="ESP| DISNEY JR HD" tvg-logo="http://miarea.vip:8080/images/131b46ea6dfc3186d052cc013ce2b3f0.png" group-title="ESPANA FHD-HD",ESP| DISNEY JR HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/500
+#EXTINF:-1 tvg-id="I73.97470.schedulesdirect.org" tvg-name="ESP| DISNEY PLUS HD" tvg-logo="http://miarea.vip:8080/images/4db99c9b9554362b3960f44523b6980c.png" group-title="ESPANA FHD-HD",ESP| DISNEY PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/501
+#EXTINF:-1 tvg-id="" tvg-name="ESP| NICK JR HD" tvg-logo="http://miarea.vip:8080/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="ESPANA FHD-HD",ESP| NICK JR HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/387
+#EXTINF:-1 tvg-id="88039" tvg-name="ESP| DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="ESPANA FHD-HD",ESP| DMAX HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/408
+#EXTINF:-1 tvg-id="I65.105552.schedulesdirect.org" tvg-name="ESP| CAZA & PESCA HD" tvg-logo="http://miarea.vip:8080/images/0c224f69a64dd03a066d9004dbc6e5c0.png" group-title="ESPANA FHD-HD",ESP| CAZA & PESCA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/497
+#EXTINF:-1 tvg-id="" tvg-name="ESP| CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="ESPANA FHD-HD",ESP| CAZAVISION HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31724
+#EXTINF:-1 tvg-id="I96.87058.schedulesdirect.org" tvg-name="ESP| HISTORIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPANA FHD-HD",ESP| HISTORIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/359
+#EXTINF:-1 tvg-id="I73.97470.schedulesdirect.org" tvg-name="ESP| DISCOVERY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/f87b9052ea11bc8d5b932c556358a7b1.png" group-title="ESPANA FHD-HD",ESP| DISCOVERY CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/364
+#EXTINF:-1 tvg-id="" tvg-name="ESP| NATIONAL GEOGRAFHY WILD FHD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="ESPANA FHD-HD",ESP| NATIONAL GEOGRAFHY WILD FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31847
+#EXTINF:-1 tvg-id="" tvg-name="ESP| NATGEO WILD HD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="ESPANA FHD-HD",ESP| NATGEO WILD HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/389
+#EXTINF:-1 tvg-id="I19.87057.schedulesdirect.org" tvg-name="ESP| AMC HD" tvg-logo="http://miarea.vip:8080/images/e1a0a412d0aa953b2959df15c7a9920f.png" group-title="ESPANA FHD-HD",ESP| AMC HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/354
+#EXTINF:-1 tvg-id="" tvg-name="ESP| AXN WHITE FHD*" tvg-logo="http://miarea.vip:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="ESPANA FHD-HD",ESP| AXN WHITE FHD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/392
+#EXTINF:-1 tvg-id="" tvg-name="ESP| AXN FHD" tvg-logo="http://miarea.vip:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="ESPANA FHD-HD",ESP| AXN FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/393
+#EXTINF:-1 tvg-id="I20.91201.schedulesdirect.org" tvg-name="ESP| FOX LIFE HD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="ESPANA FHD-HD",ESP| FOX LIFE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/503
+#EXTINF:-1 tvg-id="I38.97479.schedulesdirect.org" tvg-name="ESP| HOLLYWOOD HD" tvg-logo="http://miarea.vip:8080/images/65dd547f5d5a3a8da7e5bb98ff17ad2b.png" group-title="ESPANA FHD-HD",ESP| HOLLYWOOD HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/504
+#EXTINF:-1 tvg-id="" tvg-name="ESP| SYFY FHD " tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="ESPANA FHD-HD",ESP| SYFY FHD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31850
+#EXTINF:-1 tvg-id="" tvg-name="ESP| DARK HD" tvg-logo="http://miarea.vip:8080/images/e2c2c68a9e41cb4fcbc509fce8fd46d9.png" group-title="ESPANA FHD-HD",ESP| DARK HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31763
+#EXTINF:-1 tvg-id="" tvg-name="ESP| BOM CINE HD" tvg-logo="http://miarea.vip:8080/images/5dd578fa9a1074aa2aca9dcb86f7f3a0.png" group-title="ESPANA FHD-HD",ESP| BOM CINE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31764
+#EXTINF:-1 tvg-id="I33.91183.schedulesdirect.org" tvg-name="ESP| MOVISTAR ACCION HD" tvg-logo="http://miarea.vip:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR ACCION HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/505
+#EXTINF:-1 tvg-id="I31.91382.schedulesdirect.org" tvg-name="ESP| MOVISTAR D CINE HD" tvg-logo="http://miarea.vip:8080/images/0698dbfffc70f6c274d3fd23b60f272e.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR D CINE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/506
+#EXTINF:-1 tvg-id="I36.86948.schedulesdirect.org" tvg-name="ESP| MOVISTAR CINE HD" tvg-logo="http://miarea.vip:8080/images/b9e4361e24f3b0cf263bbf5d755e29a5.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR CINE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/405
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M. SAGAS HD" tvg-logo="http://miarea.vip:8080/images/84b603739a083784026527cfe068bf21.png" group-title="ESPANA FHD-HD",ESP| M. SAGAS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111357
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ DRAMA HD" tvg-logo="http://miarea.vip:8080/images/14c774786a0da8b3859c42408f63ab83.png" group-title="ESPANA FHD-HD",ESP| M+ DRAMA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/402
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR SERIEMANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/1571px-Movistar_Seriesman%C3%ADa.svg.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR SERIEMANIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/397
+#EXTINF:-1 tvg-id="I34.91184.schedulesdirect.org" tvg-name="ESP| M+ COMEDIA HD" tvg-logo="http://miarea.vip:8080/images/950ebd0d6382e8f2496dfc738d788b2c.png" group-title="ESPANA FHD-HD",ESP| M+ COMEDIA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/356
+#EXTINF:-1 tvg-id="I30.102940.schedulesdirect.org" tvg-name="ESP| M+ ESTRENOS HD" tvg-logo="http://miarea.vip:8080/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="ESPANA FHD-HD",ESP| M+ ESTRENOS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/357
+#EXTINF:-1 tvg-id="" tvg-name="ESP|  M+ FEST HD" tvg-logo="http://miarea.vip:8080/images/e28ab234025ca1074f8c84f41961ab5b.png" group-title="ESPANA FHD-HD",ESP|  M+ FEST HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/103958
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ ESPAÑOL HD" tvg-logo="http://miarea.vip:8080/images/72e8b408ad016bbbcad039f9684e96fd.png" group-title="ESPANA FHD-HD",ESP| M+ ESPAÑOL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111340
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ CLASSICOS HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/classic-1-logo-svg-vector.svg" group-title="ESPANA FHD-HD",ESP| M+ CLASSICOS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111341
+#EXTINF:-1 tvg-id="" tvg-name="ESP| CLAN TVE HD" tvg-logo="http://miarea.vip:8080/images/e39c9967816648d8aec6d47fffa8cfb8.png" group-title="ESPANA FHD-HD",ESP| CLAN TVE HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111336
+#EXTINF:-1 tvg-id="" tvg-name="ESP| CANAL COCINA" tvg-logo="http://miarea.vip:8080/images/0f86a2d84e5c8ab57454902852b3740a.png" group-title="ESPANA FHD-HD",ESP| CANAL COCINA
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/35550
+#EXTINF:-1 tvg-id="" tvg-name="ESP| TEN CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="ESPANA FHD-HD",ESP| TEN CHANNEL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36057
+#EXTINF:-1 tvg-id="" tvg-name="ESP| LA OTRA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/LaOtra-Logo.png" group-title="ESPANA FHD-HD",ESP| LA OTRA TV HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36060
+#EXTINF:-1 tvg-id="" tvg-name="ESP| CANAL DE CASA HD" tvg-logo="" group-title="ESPANA FHD-HD",ESP| CANAL DE CASA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/51162
+#EXTINF:-1 tvg-id="I69.85437.schedulesdirect.org" tvg-name="ESP| BARCA TV HD" tvg-logo="http://miarea.vip:8080/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="ESPANA FHD-HD",ESP| BARCA TV HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/344
+#EXTINF:-1 tvg-id="" tvg-name="ESP|  FORMULA 1 HD" tvg-logo="http://miarea.vip:8080/images/b617b3bbc2e6d4b0bf4c685a3b96611d.png" group-title="ESPANA FHD-HD",ESP|  FORMULA 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/82088
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOTORVISION HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="ESPANA FHD-HD",ESP| MOTORVISION HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/82089
+#EXTINF:-1 tvg-id="I17.91179.schedulesdirect.org" tvg-name="ESP| TDP HD" tvg-logo="http://miarea.vip:8080/images/ce8144168b7ff5e144d1f418e256568a.png" group-title="ESPANA FHD-HD",ESP| TDP HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/363
+#EXTINF:-1 tvg-id="I67.91196.schedulesdirect.org" tvg-name="ESP| TOROS HD" tvg-logo="http://miarea.vip:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="ESPANA FHD-HD",ESP| TOROS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/383
+#EXTINF:-1 tvg-id="I57.102938.schedulesdirect.org" tvg-name="ESP| F1 HD" tvg-logo="http://miarea.vip:8080/images/377cbd98d10f523ad92542a102841202.png" group-title="ESPANA FHD-HD",ESP| F1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/355
+#EXTINF:-1 tvg-id="I7.86981.schedulesdirect.org" tvg-name="ESP| #0 SPORTS  FHD" tvg-logo="http://miarea.vip:8080/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="ESPANA FHD-HD",ESP| #0 SPORTS  FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/433
+#EXTINF:-1 tvg-id="I8.109803.schedulesdirect.org" tvg-name="ESP| #V HD" tvg-logo="http://miarea.vip:8080/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="ESPANA FHD-HD",ESP| #V HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8024
+#EXTINF:-1 tvg-id="I8.109803.schedulesdirect.org" tvg-name="ESP| VAMOS SPORTS HD*" tvg-logo="http://miarea.vip:8080/images/4ca6cac0857448f84313dedb88d5cf49.png" group-title="ESPANA FHD-HD",ESP| VAMOS SPORTS HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/366
+#EXTINF:-1 tvg-id="I63.91279.schedulesdirect.org" tvg-name="ESP| GOLTV HD" tvg-logo="http://miarea.vip:8080/images/16fc5add2debd20c90a043ab94e376a6.png" group-title="ESPANA FHD-HD",ESP| GOLTV HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/360
+#EXTINF:-1 tvg-id="" tvg-name="ESP| DAZN 1 HD" tvg-logo="http://miarea.vip:8080/images/e915a072eefc6ef5f1fcb5635011f02c.png" group-title="ESPANA FHD-HD",ESP| DAZN 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/94271
+#EXTINF:-1 tvg-id="" tvg-name="ESP| DAZN 2 HD" tvg-logo="http://miarea.vip:8080/images/e915a072eefc6ef5f1fcb5635011f02c.png" group-title="ESPANA FHD-HD",ESP| DAZN 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/94272
+#EXTINF:-1 tvg-id="" tvg-name="ESP| DAZN3 HD" tvg-logo="http://miarea.vip:8080/images/e915a072eefc6ef5f1fcb5635011f02c.png" group-title="ESPANA FHD-HD",ESP| DAZN3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111337
+#EXTINF:-1 tvg-id="" tvg-name="ESP| DAZN 4 HD" tvg-logo="http://miarea.vip:8080/images/e915a072eefc6ef5f1fcb5635011f02c.png" group-title="ESPANA FHD-HD",ESP| DAZN 4 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111338
+#EXTINF:-1 tvg-id="" tvg-name="ESP| DAZN F1 HD" tvg-logo="http://miarea.vip:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="ESPANA FHD-HD",ESP| DAZN F1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111339
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ GOLF HD" tvg-logo="http://miarea.vip:8080/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="ESPANA FHD-HD",ESP| M+ GOLF HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31577
+#EXTINF:-1 tvg-id="I62.108370.schedulesdirect.org" tvg-name="ESP| MOVISTAR LA LIGA HD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LA LIGA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/367
+#EXTINF:-1 tvg-id="" tvg-name="ESP| LA LIGA TV BAR FULL HD" tvg-logo="http://miarea.vip:8080/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="ESPANA FHD-HD",ESP| LA LIGA TV BAR FULL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/396
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA HD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/400
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LA LIGA HD 1" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LA LIGA HD 1
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/401
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA DE CAMPEEONES HD " tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA DE CAMPEEONES HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111351
+#EXTINF:-1 tvg-id="I50.109474.schedulesdirect.org" tvg-name="ESP| MOVISTA LIGA DE CAMPEONES HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTA LIGA DE CAMPEONES HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/406
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA CAMPEONES 1 FHD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA CAMPEONES 1 FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31756
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 2 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA CAMPEONES 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31757
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 3 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA CAMPEONES 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31758
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 4 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA CAMPEONES 4 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31759
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 5 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA CAMPEONES 5 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31762
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 6 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA CAMPEONES 6 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31760
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 7 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| MOVISTAR LIGA CAMPEONES 7 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/31761
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA DE CAMPEONES 8 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA DE CAMPEONES 8 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111355
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA DE CAMPEONES 9 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA DE CAMPEONES 9 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111356
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA CAMPEONES 10 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA CAMPEONES 10 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111352
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA DE CAMPEONES 11 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA DE CAMPEONES 11 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111353
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LIGA DE CAMPEONES 12 HD" tvg-logo="http://miarea.vip:8080/images/94ce181bfb499954ec5c3b7238f6610f.png" group-title="ESPANA FHD-HD",ESP| M.LIGA DE CAMPEONES 12 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111354
+#EXTINF:-1 tvg-id="I53.87010.schedulesdirect.org" tvg-name="ESP| M+ DEPORTES 1 HD" tvg-logo="http://miarea.vip:8080/images/6c32fa368835a1448e47defee4b05867.png" group-title="ESPANA FHD-HD",ESP| M+ DEPORTES 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/404
+#EXTINF:-1 tvg-id="" tvg-name="ESP| EUROSPORTS 1 HD" tvg-logo="http://miarea.vip:8080/images/f6fac2cdd4520f026e26e7a1cac46ae8.png" group-title="ESPANA FHD-HD",ESP| EUROSPORTS 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36058
+#EXTINF:-1 tvg-id="" tvg-name="ESP| EUROSPORTS 2 HD" tvg-logo="http://miarea.vip:8080/images/0b29e5bfc58b925a22de70afd7154732.png" group-title="ESPANA FHD-HD",ESP| EUROSPORTS 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/36059
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ DEPORTES 2 HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Movistar_Deportes_2.svg" group-title="ESPANA FHD-HD",ESP| M+ DEPORTES 2 HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111342
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ DEPORTES 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPANA FHD-HD",ESP| M+ DEPORTES 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111343
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ DEPORTES 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPANA FHD-HD",ESP| M+ DEPORTES 4 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111344
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ DEPORTES 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPANA FHD-HD",ESP| M+ DEPORTES 5 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111345
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M+ DEPORTES 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPANA FHD-HD",ESP| M+ DEPORTES 6 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111346
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LA LIGA 2" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| M.LA LIGA 2
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111347
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LA LIGA 3 HD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| M.LA LIGA 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111348
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LA LIGA 4 HD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| M.LA LIGA 4 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111349
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M.LA LIGA 5 HD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="ESPANA FHD-HD",ESP| M.LA LIGA 5 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/111350
+#EXTINF:-1 tvg-id="" tvg-name="ESP| COMEDY CENTRAL HD" tvg-logo="" group-title="ESPANA FHD-HD",ESP| COMEDY CENTRAL HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/122749
+#EXTINF:-1 tvg-id="" tvg-name="ESP| M_#0 HD" tvg-logo="" group-title="ESPANA FHD-HD",ESP| M_#0 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/122750
+#EXTINF:-1 tvg-id="" tvg-name="ESP| MOVISTAR DEPORTES HD" tvg-logo="" group-title="ESPANA FHD-HD",ESP| MOVISTAR DEPORTES HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/134797
+#EXTINF:-1 tvg-id="" tvg-name="          "MARVEL STUDIO"" tvg-logo="" group-title="MARVEL STUDIO HD",          "MARVEL STUDIO"
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93838
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 1 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 1 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42988
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 2 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42989
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 3 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42990
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 4 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 4 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42991
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 5 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 5 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42992
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 6 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 6 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42993
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 7 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 7 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42994
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 8 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 8 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42995
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 9 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 9 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42996
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 10 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="MARVEL STUDIO HD",MARVEL| STUDIO CHANNEL 10 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/42997
+#EXTINF:-1 tvg-id="" tvg-name="         "ECUADOR"" tvg-logo="" group-title="ECUADOR FHD-HD",         "ECUADOR"
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93823
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| TVC HD*" tvg-logo="http://miarea.vip:8080/images/06dca510e40108c84e04a6869d1f9fc5.png" group-title="ECUADOR FHD-HD",ECUA| TVC HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/513
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| TELEAMAZONAS HD*" tvg-logo="http://miarea.vip:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="ECUADOR FHD-HD",ECUA| TELEAMAZONAS HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/514
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| GAMAVISION HD" tvg-logo="http://miarea.vip:8080/images/84e1fc730982dff3b5445311ba53dfa7.png" group-title="ECUADOR FHD-HD",ECUA| GAMAVISION HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/516
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ECUAVISA HD*" tvg-logo="http://miarea.vip:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="ECUADOR FHD-HD",ECUA| ECUAVISA HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/517
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ECUADOR TV HD" tvg-logo="http://miarea.vip:8080/images/e3c148fa54295a55df3364cfeca358ca.png" group-title="ECUADOR FHD-HD",ECUA| ECUADOR TV HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/518
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| CANAL UNO HD*" tvg-logo="http://miarea.vip:8080/images/9f9aa67f371ac6e7d0ec5f09f5f74e74.png" group-title="ECUADOR FHD-HD",ECUA| CANAL UNO HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/519
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| RTS HD*" tvg-logo="http://miarea.vip:8080/images/4d358721c803edde72b9e29ef08ab996.png" group-title="ECUADOR FHD-HD",ECUA| RTS HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/557
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ECUADOR TV INTERNACIONAL HD*" tvg-logo="http://miarea.vip:8080/images/15e60f7d8af753d0c74184e29df5e842.png" group-title="ECUADOR FHD-HD",ECUA| ECUADOR TV INTERNACIONAL HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/559
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| TELEAMAZONAS HD *" tvg-logo="http://miarea.vip:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="ECUADOR FHD-HD",ECUA| TELEAMAZONAS HD *
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8844
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| CANELA TV HD*" tvg-logo="http://miarea.vip:8080/images/7e9691d7781fbc0cebbb8565c578695e.png" group-title="ECUADOR FHD-HD",ECUA| CANELA TV HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8944
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ECUAVISA INTERNACIONAL HD*" tvg-logo="http://miarea.vip:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="ECUADOR FHD-HD",ECUA| ECUAVISA INTERNACIONAL HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8946
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| OROMAR TV HD*" tvg-logo="http://miarea.vip:8080/images/c01e555b6ca68bee63a432eca2932905.png" group-title="ECUADOR FHD-HD",ECUA| OROMAR TV HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8947
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| TC TV HD*" tvg-logo="http://miarea.vip:8080/images/8d321e796897975c6624a4c794a7f7b7.png" group-title="ECUADOR FHD-HD",ECUA| TC TV HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8948
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR| ECUAVISA FHD" tvg-logo="http://miarea.vip:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="ECUADOR FHD-HD",ECUADOR| ECUAVISA FHD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/68625
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://miarea.vip:8080/images/ba575dd13059018b05b3dd090f856090.png" group-title="ECUADOR FHD-HD",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/93347
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR| GOL TV " tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="ECUADOR FHD-HD",ECUADOR| GOL TV 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/78595
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| GOLTV HD*" tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="ECUADOR FHD-HD",ECUA| GOLTV HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/515
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ESPN 3 ANDINA HD" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ECUADOR FHD-HD",ECUA| ESPN 3 ANDINA HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/110366
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| ESPN 4 SUR HD" tvg-logo="http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png" group-title="ECUADOR FHD-HD",ECUA| ESPN 4 SUR HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/110367
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| FOX SPORST 2 HD" tvg-logo="http://miarea.vip:8080/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="ECUADOR FHD-HD",ECUA| FOX SPORST 2 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/110364
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| FOX SPORTS 3 HD" tvg-logo="http://miarea.vip:8080/images/f9877853403ecbe18bf5cc8782049880.png" group-title="ECUADOR FHD-HD",ECUA| FOX SPORTS 3 HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/110365
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS HD " tvg-logo="http://miarea.vip:8080/images/3599d812c2e593dc916edc197673115b.png" group-title="ECUADOR FHD-HD",ECUA| DIRECTV SPORTS HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8348
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS HD" tvg-logo="http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png" group-title="ECUADOR FHD-HD",ECUA| DIRECTV SPORTS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/75699
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS PLUS HD" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="ECUADOR FHD-HD",ECUA| DIRECTV SPORTS PLUS HD
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/110353
+#EXTINF:-1 tvg-id="" tvg-name="ECUA| DIRECTV SPORTS 2 HD*" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="ECUADOR FHD-HD",ECUA| DIRECTV SPORTS 2 HD*
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/8945
+#EXTINF:-1 tvg-id="" tvg-name="ECU| TV CORTOS HD " tvg-logo="" group-title="ECUADOR FHD-HD",ECU| TV CORTOS HD 
+http://miarea.vip:8080/Pmedia7/wMgcHvxAzj/277504
+
+
